@@ -8,10 +8,14 @@ This program decrypts both older and newer encryption used by Chrome (before and
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
-pip install PyCryptodome or python2 -m pip install PyCryptodome
-pip install pywin32 or python2 -m pip install pywin32
+pip install PyCryptodome
+pip install pywin32
 ```
-
+or 
+```bash
+python2 -m pip install PyCryptodome
+python2 -m pip install pywin32
+```
 ## Usage
   Program must be ran on Windows OS using python2, and on the source computer of the 'Login Data' sql file. 
 ```python

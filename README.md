@@ -7,14 +7,14 @@ This file is located in C:\~\AppData\Local\Google\Chrome\User Data\Default.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install PyCryptodome or python2 -m pip install PyCrypotdome
+pip install PyCryptodome or python2 -m pip install PyCryptodome
 pip install pywin32 or python2 -m pip install pywin32
 ```
 
 ## Usage
   Program must be ran on Windows OS using python2, and on the source computer of the 'Login Data' sql file. 
 ```python
-python2 
+python2 Password Decrypter Chrome.py
 ```
 
 ## Contributing

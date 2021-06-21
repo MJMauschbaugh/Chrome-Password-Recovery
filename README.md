@@ -5,7 +5,7 @@ This program decrypts both older and newer encryption used by Chrome (before and
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
 pip install PyCryptodome or python2 -m pip install PyCryptodome

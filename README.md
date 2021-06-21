@@ -1,6 +1,7 @@
 # Chrome-Password-Recovery
 Password decrypter ran using pywin32 and PyCryptodome to decrypt saved google chrome passwords stored in 'Login Data' file.
 This file is located in C:\~\AppData\Local\Google\Chrome\User Data\Default.
+This program decrypts both older and newer encryption used by Chrome (before and after v80).
 
 ## Installation
 
